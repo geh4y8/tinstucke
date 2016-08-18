@@ -19,4 +19,6 @@
 //= require supersized.3.2.7
 //= require jquery.jTinder
 //= require jquery.transform2d
+//= require jquery.tinysort
+//= require tinysort
 //= require_tree .
